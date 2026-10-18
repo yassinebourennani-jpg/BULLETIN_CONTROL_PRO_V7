@@ -1,0 +1,16 @@
+{
+  "name": "BULLETIN CONTROL PRO — Spécial Sécurité Privée",
+  "short_name": "Bulletin Control Pro",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#8b1e1e",
+  "theme_color": "#8b1e1e",
+  "lang": "fr",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ],
+  "description": "BULLETIN CONTROL PRO V7 — profils, primes dynamiques, habillage par vacations, dimanche par heures saisies, primes simplifiées, chevauchements/reports et assiette de cotisations paramétrable"
+}
